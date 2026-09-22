@@ -1,0 +1,1453 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//dave//warneford-school-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Highworth Warneford School
+X-WR-TIMEZONE:Europe/London
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19810329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19961027T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:1188@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Year 7 Only
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1188
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1188
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1189@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Year 7/10 Photos
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1189
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1189
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1190@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Year 11 Careers Meeting
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1190
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1190
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1191@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260917
+SUMMARY:Year 11 Careers Meeting
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1191
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1191
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1192@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:SCHOOL CLOSES AT 2.25pm
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1192
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1192
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1193@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20260917T170000
+DTEND;TZID=Europe/London:20260917T193000
+SUMMARY:Open Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1193
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1193
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1194@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20260918T170000
+DTEND;TZID=Europe/London:20260918T193000
+RRULE:FREQ=DAILY;UNTIL=20260923T160000Z
+SUMMARY:Year 11 Careers Meeting
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1194
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1194
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1195@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Year 7 Tutor Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1195
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1195
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1196@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Year 11 Careers Meeting
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1196
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1196
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1197@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Flu Vaccinations
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1197
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1197
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1198@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Year 11 Exams Made Easy Workshops
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1198
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1198
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1199@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Year 11 Key to Success Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1199
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1199
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1200@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Year 8 Enterprise Workshop
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1200
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1200
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1201@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Year 10 Art Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1201
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1201
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1202@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Year 7 STEM Robotics Workshop
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1202
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1202
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1203@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+SUMMARY:Open Morning
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1203
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1203
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1204@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Year 7 House Matches P1 / Year 10 House Matches P3
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1204
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1204
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1205@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Year 11 House Matches P5
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1205
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1205
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1206@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Year 8 House Matches P2 / Year 9 House Matches P4
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1206
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1206
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1207@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Year 8 Music Showcase
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1207
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1207
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1208@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Buscot Charity Day (Non Uniform)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1208
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1208
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1209@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Year 7 STEM Roadshow (Period 1)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1209
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1209
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1210@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261128
+SUMMARY:Year 11 Mocks
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1210
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1210
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1212@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:MFL Speaking Mocks
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1212
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1212
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1211@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Year 9 Parents Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1211
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1211
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1213@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Year 9 Options Workshops
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1213
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1213
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1214@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Year 9 Options Workshops
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1214
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1214
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1215@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:Year 11 Xmas Dinner
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1215
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1215
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1220@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:Reward Afternoon
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1220
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1220
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1221@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20261207T123000
+DTEND;TZID=Europe/London:20261207T140000
+SUMMARY:Choir Trip to Local Care Homes
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1221
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1221
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1216@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Year 10 Xmas Dinner
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1216
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1216
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1217@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Year 9 Xmas Dinner
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1217
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1217
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1218@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Year 8 Xmas Dinner
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1218
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1218
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1219@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Year 7 Xmas Dinner
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1219
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1219
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1222@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Xmas Concert
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1222
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1222
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1224@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Senior Citizens Xmas Party
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1224
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1224
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1223@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Xmas Concert
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1223
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1223
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1225@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Coleshill Charity Day (Non Uniform)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1225
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1225
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1226@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270107T163000
+DTEND;TZID=Europe/London:20270107T183000
+SUMMARY:Y11 Parents Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1226
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1226
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1227@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270112T000000
+DTEND;TZID=Europe/London:20270114T000000
+SUMMARY:Y11 Mock Interviews
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1227
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1227
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1228@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270121T163000
+DTEND;TZID=Europe/London:20270121T183000
+SUMMARY:Options Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1228
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1228
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1229@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270201T180000
+DTEND;TZID=Europe/London:20270201T200000
+SUMMARY:Y9 Music Showcase
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1229
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1229
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1230@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270202T000000
+DTEND;TZID=Europe/London:20270202T010000
+SUMMARY:House Music Competition (p4 & p5)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1230
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1230
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1231@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270204T000000
+DTEND;TZID=Europe/London:20270204T010000
+SUMMARY:Y11 History Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1231
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1231
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1232@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270211T000000
+DTEND;TZID=Europe/London:20270211T010000
+SUMMARY:Y9 Options Deadline
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1232
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1232
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1233@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270211T000000
+DTEND;TZID=Europe/London:20270211T010000
+SUMMARY:Hampton Charity Day (non-uniform)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1233
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1233
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1234@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270211T000000
+DTEND;TZID=Europe/London:20270211T010000
+SUMMARY:Y11 MFL Speaking Mocks
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1234
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1234
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1235@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270212T000000
+DTEND;TZID=Europe/London:20270212T010000
+SUMMARY:INSET DAY
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1235
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1235
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1236@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270212T000000
+DTEND;TZID=Europe/London:20270220T000000
+SUMMARY:Ski Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1236
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1236
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1237@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270222T000000
+DTEND;TZID=Europe/London:20270227T000000
+SUMMARY:Y11 Food Exams
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1237
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1237
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1241@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:Y10/11 Music Showcase
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1241
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1241
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1238@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270301T000000
+DTEND;TZID=Europe/London:20270306T000000
+SUMMARY:Y11 Core Mocks
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1238
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1238
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1239@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270301T163000
+DTEND;TZID=Europe/London:20270301T183000
+SUMMARY:Y8 Parents Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1239
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1239
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1240@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;TZID=Europe/London:20270310T000000
+DTEND;TZID=Europe/London:20270313T000000
+SUMMARY:Y9 Belgium Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1240
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1240
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1242@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270320
+SUMMARY:Y10 Work Experience
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1242
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1242
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1243@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Y9 House Matches P1 Y8 House Matches P3
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1243
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1243
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1244@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:Y8 Immunisations Y7 House Matches P5
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1244
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1244
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1245@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270323
+SUMMARY:Y11 Photo/Concert Rehearsals
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1245
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1245
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1246@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270325
+SUMMARY:Easter Concert
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1246
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1246
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1247@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:Stanton Charity Day (Non-Uniform)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1247
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1247
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1248@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Y7 Swimming Gala
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1248
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1248
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1249@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Y10 Parents Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1249
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1249
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1250@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270429
+SUMMARY:DIGITAL PHOTOGRAPHY EXAM
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1250
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1250
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1251@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:GCSE EXAMS (MFL Speaking)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1251
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1251
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1252@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:ART EXAM
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1252
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1252
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1253@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:ART EXAM
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1253
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1253
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1254@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270515
+SUMMARY:GCSE EXAMS
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1254
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1254
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1255@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270522
+SUMMARY:GCSE EXAMS
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1255
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1255
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1256@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+SUMMARY:GCSE EXAMS
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1256
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1256
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1257@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:INSET DAY
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1257
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1257
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1258@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270612
+SUMMARY:GCSE EXAMS / KS3 EXAMS
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1258
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1258
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1259@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270619
+SUMMARY:GCSE EXAMS / KS3 EXAMS
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1259
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1259
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1260@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:Y7 Music Showcase
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1260
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1260
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1261@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:Y11 Prom
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1261
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1261
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1262@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270623
+SUMMARY:Y10 Mock Exam
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1262
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1262
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1263@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:CONTINGENCY DAY
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1263
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1263
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1264@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270626
+SUMMARY:Y10 Mock Exam
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1264
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1264
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1265@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Y11 Leaver's Ceremony
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1265
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1265
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1266@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+SUMMARY:Y7 French Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1266
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1266
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1267@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270701
+SUMMARY:Y10 Mock Exam
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1267
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1267
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1268@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:Y6 Transition Day
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1268
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1268
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1269@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:Sports Day
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1269
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1269
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1270@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:(Reserve school production rehearsal day)
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1270
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1270
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1271@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270705
+SUMMARY:Bronze DofE Training
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1271
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1271
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1272@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:Y10 Geog Field Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1272
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1272
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1273@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270708
+SUMMARY:A Night at the Musical
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1273
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1273
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1274@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:Y7 Parent's Evening
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1274
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1274
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1275@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Y7 History Trip
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1275
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1275
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1276@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Y10 TPAT Sixth Form Experience
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1276
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1276
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1277@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270717
+SUMMARY:Pencelli
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1277
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1277
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1278@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270719
+SUMMARY:Bronze DofE Assessment
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1278
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1278
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1279@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:Reward Trips
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1279
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1279
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1280@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Tutor Time Period 3
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1280
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1280
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1281@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:Whole School Assembly 12pm
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1281
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1281
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1282@warnefordschool.org
+SEQUENCE:0
+DTSTAMP:20260922T170615Z
+LAST-MODIFIED:20260922T170615Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:SCHOOL FINISHES AT 12.35PM
+DESCRIPTION:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=
+ 1&event=1282
+URL:https://www.warnefordschool.org/calendar/?calid=1&pid=9&viewid=1&event=
+ 1282
+CATEGORIES:General
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
