@@ -19,14 +19,11 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
-          # A PAT keeps the repo counting as "active" so the schedule isn't
-          # auto-disabled after 60 days. Falls back to the built-in token if
-          # you haven't set CALENDAR_PAT.
           token: ${{ secrets.CALENDAR_PAT || github.token }}
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
