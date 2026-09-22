@@ -32,12 +32,15 @@ jobs:
 
       - name: Commit if changed
         run: |
-          if git diff --quiet -- calendar.ics state.json; then
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Stage first: `git diff` alone ignores untracked files, so on the very
+          # first run (when calendar.ics does not exist yet) it reports no change
+          # and nothing is ever committed. `--cached` compares the staged tree.
+          git add calendar.ics state.json
+          if git diff --cached --quiet; then
             echo "No changes."
             exit 0
           fi
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add calendar.ics state.json
           git commit -m "Calendar update $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
